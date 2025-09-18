@@ -1,0 +1,14 @@
+
+ipykernel
+ipywidgets
+python-dotenv
+langchain
+langchain-community
+groq
+langchain-groq
+sentence-transformers
+langchain-huggingface
+matplotlib
+graphviz
+pinecone
+langchain
